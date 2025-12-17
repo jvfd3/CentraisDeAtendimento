@@ -54,3 +54,56 @@ graph LR
     MenuPrincipal_OutraSolicitacao -->|9| MenuPrincipal_OutraSolicitacao_Atendente
     MenuPrincipal_OutraSolicitacao -->|0| MenuPrincipal_OutraSolicitacao_MenuAnterior
 ```
+
+## AMIL
+
+```mermaid
+graph TD
+
+```
+
+1. Agendar
+2. ?
+3. Gestor corporativo;
+4. Prestador de serviços médicos;
+5. Corretor Amil;
+6. Não cliente Amil;
+
+## 1
+
+- Digitar CPF
+
+---
+
+1. Informações plano médico
+2. Amil Dental;
+
+### 1.1
+
+1. Consulta
+2. Exame
+3. Alterar beneficiário
+
+### 1.1.1
+
+1. Telemedicina
+
+- Aguardar
+
+### 1.1.1.Aguardar
+
+1.
+2. Dermato
+3. ...
+
+---
+
+Protocolo: 3260520251215047437
+
+1. Ouvir novamente
+
+- Aguarde
+
+#### 1.1.1.Aguardar.Aguardar
+
+Atendimento com atendente: Pietra
